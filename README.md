@@ -1,5 +1,6 @@
 # Checkmk - Your complete IT monitoring solution
 
+
 ![PR-CI status](https://github.com/tribe29/checkmk/actions/workflows/pr.yaml/badge.svg)
 
 Checkmk is available in several editions.
