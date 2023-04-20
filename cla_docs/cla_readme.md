@@ -7,6 +7,8 @@ We have two processes for signing a CLA:
 
 The process works like this:
 
+![cla-flowchart drawio](https://user-images.githubusercontent.com/129958627/233333569-7688d728-7bfc-4edc-85f0-e99b2d03f6f4.png)
+
 ## Individual CLA Process
 
 To sign the CLA and submit PRs as individual, please follow these steps:
