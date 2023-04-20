@@ -26,11 +26,11 @@ jobs:
           PERSONAL_ACCESS_TOKEN: ${{ secrets.PERSONAL_ACCESS_TOKEN_FOR_CLA }}
         with:
           path-to-signatures: 'signatures/version1/cla.json'
-          path-to-document: 'https://github.com/englertor/checkmk/blob/main/cla_docs/cla.md' # e.g. a CLA or a DCO document
+          path-to-document: 'https://github.com/englertor/checkmk/blob/master/cla_docs/cla.md' # e.g. a CLA or a DCO document
           # branch should not be protected
           branch: 'main'
           allowlist: ''
-          remote-repository-name: 'https://github.com/checkmk/cla'
+          remote-repository-name: 'https://github.com/tribe29/cla'
 
          # the followings are the optional inputs - If the optional inputs are not given, then default values will be taken
           #remote-organization-name: enter the remote organization name where the signatures should be stored (Default is storing the signatures in the same repository)
