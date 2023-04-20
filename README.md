@@ -7,6 +7,9 @@ The Checkmk Raw Edition is free and 100% open-source.
 The Checkmk Enterprise Edition includes several additional features and professional support from the authors, billed annually.
 A demo version is freely available for testing the Enterprise Edition.
 
+
+
+
 Checkmk can be installed on Linux servers via DEB and RPM packages found on our [downloads page](https://checkmk.com/download.php).
 The Enterprise Edition is also available as a virtual or physical appliance.
 The following short installation guides show how you can easily set up Checkmk and begin monitoring.
