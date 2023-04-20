@@ -29,7 +29,7 @@ jobs:
           path-to-document: 'https://github.com/englertor/checkmk/blob/master/cla_docs/cla.md' # e.g. a CLA or a DCO document
           # branch should not be protected
           branch: 'main'
-          allowlist: ''
+          allowlist: bot* # comma separated list of users who are allowed to submit without a CLA bot approval
           remote-organization-name: 'tribe29'
           remote-repository-name: 'cla'
 
