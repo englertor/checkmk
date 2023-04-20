@@ -32,6 +32,7 @@ jobs:
           allowlist: bot* # comma separated list of users who are allowed to submit without a CLA bot approval
           remote-organization-name: 'tribe29'
           remote-repository-name: 'cla'
+          custom-pr-sign-comment: 'I have read the CLA Document and I hereby sign the CLA or my organization already has a signed CLA.'
 
          # the followings are the optional inputs - If the optional inputs are not given, then default values will be taken
           #remote-organization-name: enter the remote organization name where the signatures should be stored (Default is storing the signatures in the same repository)
