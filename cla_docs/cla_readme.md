@@ -7,7 +7,7 @@ We have two processes for signing a CLA:
 
 The process works like this:
 
-![cla-flowchart drawio](https://user-images.githubusercontent.com/129958627/233333569-7688d728-7bfc-4edc-85f0-e99b2d03f6f4.png)
+![cla-flowchart drawio](https://user-images.githubusercontent.com/129958627/233366886-ddb757c2-df4e-44ff-a565-a91641fdfd6e.png)
 
 ## Individual CLA Process
 
@@ -30,7 +30,9 @@ After the CLA has been signed, you can submit PRs as corporation like this:
 Fork the project on GitHub.
 Make your changes and commit them to your branch.
 Create a pull request from your branch to the main branch of the project. Ensure that the pull request is being made from a repository that has been assigned to the GitHub organization owned by the corporate.
+The CLA bot will automatically check if all contributors have signed the CLA. If you have not, the bot will guide you through the process of signing it.
 Once the bot confirms that you have signed the CLA, your pull request will be reviewed and considered for merging into the main branch.
+In case the CLA bot process does not work for you, you can send the signed CLA to us via mail to cla@checkmk.com.
 
 ## FAQ
 
