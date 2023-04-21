@@ -12,26 +12,29 @@ The process works like this:
 ## Individual CLA Process
 
 To sign the CLA and submit PRs as individual, please follow these steps:
-Fork the project on GitHub.
-Create a new branch for your changes.
-Make your changes and commit them to your branch.
-Create a pull request from your branch to the main branch of the project.
-The CLA bot will automatically check if you have signed the CLA. If you have not, the bot will guide you through the process of signing it.
-Once the bot confirms that you have signed the CLA, your pull request will be reviewed and considered for merging into the main branch.
+1. Fork the project on GitHub.
+2. Create a new branch for your changes.
+3. Make your changes and commit them to your branch.
+4. Create a pull request from your branch to the main branch of the project.
+5. The CLA bot will automatically check if you have signed the CLA. If you have not, the bot will guide you through the process of signing it.
+6. Once the bot confirms that you have signed the CLA, your pull request will be reviewed and considered for merging into the main branch.
+
 In case the CLA bot process does not work for you, you can send the signed CLA to us via mail to cla@checkmk.com.
 
 ## Corporate CLA Process
 
 To sign the CLA as a corporation, please follow these steps:
-Have someone with the authority to legally bind the company sign the CLA.
-Send the signed CLA via mail to cla@checkmk.com.
-We'll notify you once we have confirmed the signed CLA.
+1. Have someone with the authority to legally bind the company sign the CLA.
+2. Send the signed CLA via mail to cla@checkmk.com.
+3. We'll notify you once we have confirmed the signed CLA.
+
 After the CLA has been signed, you can submit PRs as corporation like this:
-Fork the project on GitHub.
-Make your changes and commit them to your branch.
-Create a pull request from your branch to the main branch of the project. Ensure that the pull request is being made from a repository that has been assigned to the GitHub organization owned by the corporate.
-The CLA bot will automatically check if all contributors have signed the CLA. If you have not, the bot will guide you through the process of signing it.
-Once the bot confirms that you have signed the CLA, your pull request will be reviewed and considered for merging into the main branch.
+1. Fork the project on GitHub.
+2. Make your changes and commit them to your branch.
+3. Create a pull request from your branch to the main branch of the project. Ensure that the pull request is being made from a repository that has been assigned to the GitHub organization owned by the corporate.
+4. The CLA bot will automatically check if all contributors have signed the CLA. If you have not, the bot will guide you through the process of signing it.
+5. Once the bot confirms that you have signed the CLA, your pull request will be reviewed and considered for merging into the main branch.
+
 In case the CLA bot process does not work for you, you can send the signed CLA to us via mail to cla@checkmk.com.
 
 ## FAQ
