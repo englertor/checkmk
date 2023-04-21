@@ -44,17 +44,22 @@ If you are contributing to the project as an individual, and not as an employee 
 
 ### I contribute for my company, do I have to sign the CLAs?
 If you are contributing to the project as an employee of a company, then your organization needs to sign the CLA together with you. Once the corporate CLA process is finished, we can accept your contributions. There is no need to go through the individual CLA process in addition.
+
 If you have built the changes in your own time and are contributing to the project as an individual, then the individual CLA process is sufficient.
 
 ### In my job, I make contributions under the corporate signed CLA. How can I submit PRs under the individual CLA in my spare time?
 If you are making contributions under the corporate signed CLA, and you additionally want to submit a contribution as an individual under the individual CLA, you will first need to ensure that you are allowed to do so. Your employer may have policies in place that prevent you from contributing to open source projects on your own time, or they may require you to contribute all of your work to the company.
+
 If you are allowed to contribute to open source projects on your own time, and your contribution does not include any code or other materials that were developed on company time, then you can sign the Individual CLA and submit your contribution as an individual. However, if your contribution includes any code or other materials that were developed on company time, then you will need to submit it under the corporate signed CLA.
 
 ### What do I need to do as a contractor for a corporation?
 If you are a contractor contributing to the project on behalf of a corporation, you will need to ensure that your contribution is covered by the CLA.
+
 You may need to work with the legal team at the corporation to ensure that the appropriate agreements are in place before you can make contributions to the project. If you are not authorized to sign the CLA on behalf of the corporation, then you should work with the legal team to ensure that the appropriate individual or representative signs the agreement. Once the CLA is in place, you can make contributions to the project on behalf of the corporation.
+
 If you make contributions on your own time, outside of your work as a contractor, then you can sign the Individual CLA and submit your contributions as an individual.
 
 ### What do I need to do in case I change companies and still want to contribute?
 If you are an employee who has changed companies and you want to continue making contributions to the project, you will need to ensure that your new employer has a CLA signed. You should work with your new employer's legal team to ensure that the appropriate agreements are in place before making contributions to the project.
+
 If you are making contributions on your own time, outside of your work as an employee, then you can keep using the Individual CLA and submit your contributions as an individual.
