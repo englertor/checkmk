@@ -42,3 +42,5 @@ To create a DEB package:
 
 Don't forget to insert your name and mail address.
 As a result you should find packages of the form `check-mk-[edition]-[version].[deb|rpm]` in your current directory.
+
+
