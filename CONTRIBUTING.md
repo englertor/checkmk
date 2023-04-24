@@ -1,5 +1,6 @@
 # Contributing to Checkmk
 
+
 Thanks for your interest to contribute to [Checkmk on Github](https://github.com/tribe29/checkmk)!
 
 Here are some ways you can help out:
